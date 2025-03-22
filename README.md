@@ -97,6 +97,10 @@ For instance, running inference with a pretrained CGT model:
 python inference.py
 ```
 
+Please submit the application form via the ['link'](https://forms.gle/GFmHzzwpSjpK4WK17), if you want to use the graph weight dataset (*.pt).
+
+After the check, we will send you a download link soon.
+
 
 
 
